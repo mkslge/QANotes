@@ -119,19 +119,13 @@ Testing where you do not know how the inner workings of the code works
 ***Funcational & Non-Functional Testing Types***
 
 FUNCTIONAL TESTING TYPES:
-Unit Testing - Tests individual functions or methods in isolation
-
-Integration Testing - Tests interactions between modules or services
-
-System Testing - Tests the entire system as a whole
-
-Smoke Testing - Basic tests to check if the build is stable enough for deeper tests
-
-Sanity Testing - Verifies that functionality works after minor changes
-
-Regression Testing - Ensures new changes haven't broken existing features
-
-UAT - Confirms the system meets the bufiness needs and is ready for release
+    -Unit Testing - Tests individual functions or methods in isolation
+    -Integration Testing - Tests interactions between modules or services
+    -System Testing - Tests the entire system as a whole
+    -Smoke Testing - Basic tests to check if the build is stable enough for deeper tests
+    -Sanity Testing - Verifies that functionality works after minor changes
+    -Regression Testing - Ensures new changes haven't broken existing features
+    -UAT - Confirms the system meets the bufiness needs and is ready for release
 
 
 NON-FUNCTIONAL TESTING TYPES:
